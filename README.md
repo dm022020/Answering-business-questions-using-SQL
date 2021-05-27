@@ -1,0 +1,2 @@
+# Answering-business-questions-using-SQL
+In this project, we'll be working with a database called Chinook. The Chinook database contains information about a fictional digital music shop - kind of like a mini-iTunes store. The Chinook database contains information about the artists, songs, and albums from the music shop, as well as information on the shop's employees, customers, and the customers purchases. We're going to use our SQL skills to answer some business questions. 
